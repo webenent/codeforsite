@@ -1,0 +1,85 @@
+[
+  {
+      "adid": "vi356349",
+      "mywipro": {
+          "name": "Vishal Bisht",
+          "profilepic": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAfaAAAAJDRmZTNmMDlhLTdlMDEtNDJhMi1iODM2LWMyNmY2YWM2Y2I1Zg.jpg",
+          "designation": "General Manager",
+          "maritialstatus": "Not married",
+          "address": {
+              "place": "EC4, Tower 23, 2nd Floor",
+              "city": "Bangalore",
+              "state": "Karnataka",
+              "country": "India",
+              "zipcode": "560100"
+          },
+          "contactnumber": "8126996986",
+          "email": "vishal.bisht1@wipro.com",
+          "staffingdetails": {
+              "companycode": "WT01",
+              "band": "D2",
+              "careerstream": "Project management stream",
+              "costcenter": {
+                  "name": "T51112",
+                  "description": "Banking"
+              },
+              "vertical": "Banking",
+              "bu": "FS",
+              "supervisor": {
+                  "id": "31756",
+                  "name": "Angan Arun Guha"
+              },
+              "hr": {
+                  "id": "122499",
+                  "name": "Prasad Gantasai"
+              }
+          },
+          "education": "B.SC. Physics,1986",
+          "joiningdate": "12/2/1996",
+          "experience": {
+              "month": "8",
+              "years": "4"
+          },
+          "appraisal": [{
+                  "year": "2013",
+                  "rating": "3"
+              },
+              {
+                  "year": "2014",
+                  "rating": "5"
+              },
+              {
+                  "year": "2015",
+                  "rating": "4"
+              }
+          ],
+          "trp": {
+              "currResponsibility": "Management of the Real-Time Data Management practice, a team of consultants in the UK. The role encompasses resource forecasting and pipeline management; technical service delivery; client technical relationships; liaison with key account and delivery leads. Delivering real-time data management consultancy, project services and solution architecture designs to the energy, natural resources and utility sectors.",
+              "rolesHandeled": [
+                  "BG Group - Solution Architect",
+                  "SAIC Limited - Managing Consultant",
+                  "Capula Limited - Solutions Architect",
+                  "Beaver Valley Systems - Technical Director",
+                  "Digital Equipment - Principal Consultant"
+              ],
+              "topDevelopmentArea": "Business Development Skills",
+              "significantAchivements": [
+                  "Responsibility for all solutions–led projects and consultancy delivered from the Capula Gloucester office with a team of fifteen direct-report professionals and engineers and a multi-million pound turnover.",
+                  "Delivery of the Integrated Asset Modelling solution architecture for BG Group.",
+                  "Design and development of a bespoke manufacturing execution system taking orders from SAP and delivering scheduled information to the production line for Mars."
+              ],
+              "aspirations": " To be the architect for solution offerings in ENU Cross Industry. l2 - Strong Domain Knowledge, Excellent technical and RT architecture, Delivery"
+          }
+      },
+      "linkedin": {
+        "islinkedtolinkedin":false
+      },
+
+      "others": {
+          "recommendation": 0,
+          "badges": 0,
+          "careerQuotient": 9.0,
+          "profileCompleteness":100
+      }
+  }
+]

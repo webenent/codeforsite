@@ -1,0 +1,7 @@
+{
+  "mongo":{
+    "url":"mongodb://localhost/talentmarketplaceTest",
+    "username":"",
+    "password":""
+  }
+}
